@@ -3,8 +3,7 @@ Set of real world data science tasks completed using the Python libraries.
 
 ## Setup
 
-Clone the repo from this github link:
-https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+Data taken from kaggle.
 
 Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br/>
 
